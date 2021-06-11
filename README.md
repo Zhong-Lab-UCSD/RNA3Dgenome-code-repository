@@ -15,12 +15,12 @@ iMARGI data were processed using the publicly available [iMARGI pipeline](https:
 - [`margi_compartment.r`](./iMARGI/margi_compartment.r) is used for iMARGI analysis on Hi-C A/B compartments.
 - [`margi_tads.r`](./iMARGI/margi_tads.r) is used for iMARGI analysis on Hi-C topologically associating domains (TADs).
 - [`margi_loops.r`](./iMARGI/margi_loops.r) is used for iMARGI analysis on Hi-C chromatin loops.
-- Irene add your stuff here
+- Irene add your stuff here (script files to be included under the folder `iMARGI`)
 - 
 
 ### caRNA domains analysis
 
-Zhijie please add the link to your repository and additional codes here.
+Zhijie please add the link to your repository and additional codes here (script files to be included under the folder `iMARGI`).
 
 
 ## Hi-C
@@ -42,3 +42,7 @@ Final `.hic` files were analyzed with the software [Juicer](https://github.com/a
 - [`TAD_analysis.r`](./HiC/TAD_analysis.r) is used for analysis on topologically associating domains (TADs).
 - [`loops.sh`](./HiC/loops.sh) is used to call loops and perform Aggregate Peak Analysis (APA).
 - [`loop_analysis.r`](./HiC/loop_analysis.r) is used for analysis on chromatin loops.
+
+## PLAC-seq
+
+Zhijie please fill in this part.
