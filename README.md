@@ -20,7 +20,9 @@ iMARGI data were processed using the publicly available [iMARGI pipeline](https:
 
 ### caRNA domains
 
-Zhijie please add the link to your repository and additional codes here (script files to be included under the folder `iMARGI`).
+### Data analysis
+[RNAStripeTools](https://github.com/Zhong-Lab-UCSD/rnaStripe) was used with default parameters to identify caRNA domains from processed iMARGI `BEDPE` files. 
+
 
 
 ## Hi-C
@@ -45,4 +47,5 @@ Final `.hic` files were analyzed with the software [Juicer](https://github.com/a
 
 ## PLAC-seq
 
-Zhijie please fill in this part.
+### Raw data processing and analysis
+[MAPS](https://github.com/ijuric/MAPS) was used with default parameters to process the PLAC-seq data and to identify chromatin-chromatin interactions 
