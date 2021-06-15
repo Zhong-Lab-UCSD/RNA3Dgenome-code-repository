@@ -15,7 +15,7 @@ iMARGI data were processed using the publicly available [iMARGI pipeline](https:
 - [`margi_compartment.r`](./iMARGI/margi_compartment.r) is used for iMARGI analysis on Hi-C A/B compartments.
 - [`margi_tads.r`](./iMARGI/margi_tads.r) is used for iMARGI analysis on Hi-C topologically associating domains (TADs).
 - [`margi_loops.r`](./iMARGI/margi_loops.r) is used for iMARGI analysis on Hi-C chromatin loops.
-- [`iMARGI_SPIN.R`](./iMARGI/margi_SPIN.r) is used for RNA-SPIN interaction. 
+- [`margi_SPIN.r`](./iMARGI/margi_SPIN.r) is used for RNA-SPIN interaction. 
 
 
 ### caRNA domains
