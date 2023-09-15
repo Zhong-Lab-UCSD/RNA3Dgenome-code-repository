@@ -19,10 +19,10 @@ iMARGI data were processed using the publicly available [iMARGI pipeline](https:
 
 ### caRNA domains
 
-### Data analysis
+**Data analysis**
 [RNAStripeTools](https://github.com/Zhong-Lab-UCSD/rnaStripe) was used with default parameters to identify caRNA domains from processed iMARGI `BEDPE` files. 
 
-### Data visualization
+**Data visualization**
 [higlass-manage](https://github.com/higlass/higlass-manage) was used visualize caRNA domains.
 
 ## Hi-C
