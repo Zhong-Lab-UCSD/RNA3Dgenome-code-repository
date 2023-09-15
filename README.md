@@ -1,6 +1,6 @@
-# RNA-3Dgenome code repository
+# RNA-3Dgenome code repository (Zhong Lab)
 
-Repository of codes used for the paper "Three-dimensional organization of chromatin associated RNAs and their role in chromatin architecture in human cells" ([pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447969v1)).
+Repository of codes used for the paper "Genome-wide analysis of the interplay between chromatin-associated RNA and 3D genome organization in human cells" ([pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447969v1)).
 
 ## iMARGI
 
@@ -15,7 +15,6 @@ iMARGI data were processed using the publicly available [iMARGI pipeline](https:
 - [`margi_compartment.r`](./iMARGI/margi_compartment.r) is used for iMARGI analysis on Hi-C A/B compartments.
 - [`margi_tads.r`](./iMARGI/margi_tads.r) is used for iMARGI analysis on Hi-C topologically associating domains (TADs).
 - [`margi_loops.r`](./iMARGI/margi_loops.r) is used for iMARGI analysis on Hi-C chromatin loops.
-- [`margi_SPIN.r`](./iMARGI/margi_SPIN.r) is used for RNA-SPIN interaction. 
 
 
 ### caRNA domains
@@ -45,8 +44,3 @@ Final `.hic` files were analyzed with the software [Juicer](https://github.com/a
 - [`TAD_analysis.r`](./HiC/TAD_analysis.r) is used for analysis on topologically associating domains (TADs).
 - [`loops.sh`](./HiC/loops.sh) is used to call loops and perform Aggregate Peak Analysis (APA).
 - [`loop_analysis.r`](./HiC/loop_analysis.r) is used for analysis on chromatin loops.
-
-## PLAC-seq
-
-### Raw data processing and analysis
-[MAPS](https://github.com/ijuric/MAPS) was used with default parameters to process the PLAC-seq data and to identify chromatin-chromatin interactions 
