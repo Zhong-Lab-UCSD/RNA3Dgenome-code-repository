@@ -1,6 +1,8 @@
-# RNA-3Dgenome code repository (Zhong Lab)
+# NCOMMS-23-21772B code repository (Zhong Lab)
 
-Repository of codes used for the paper "Genome-wide analysis of the interplay between chromatin-associated RNA and 3D genome organization in human cells" ([pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447969v1)).
+Repository of codes used for the paper "Genome-wide analysis of the interplay between chromatin-associated RNA and 3D genome organization in human cells" ([see paper](https://www.nature.com/articles/s41467-023-42274-7)).
+
+To cite this paper: `Calandrelli, R., Wen, X., Charles Richard, J. L., Luo, Z., Nguyen, T. C., Chen, C. J., ... & Zhong, S. (2023). Genome-wide analysis of the interplay between chromatin-associated RNA and 3D genome organization in human cells. Nature Communications, 14(1), 6519`
 
 ## iMARGI
 
